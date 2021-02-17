@@ -1,4 +1,6 @@
 # Ola, mundo!
- primeiro repositorio docurso de git e githud
+ Primeiro repositorio docurso de git e githud
  
- repositorio criado durante uma aula ao vivo!
+ Repositorio criado durante uma aula ao vivo!
+
+Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
